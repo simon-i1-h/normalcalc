@@ -13,7 +13,7 @@ A purely functional esoteric programming language
 
 ## Operators
 
-- `` ` ``: Function application
+- `` ` ``: Function application operator
 - `*`: Substitution function (the S combinator)
 - `/`: Constant function (the K combinator)
 - `|`: Bind function (also called flatMap)
