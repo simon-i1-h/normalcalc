@@ -21,3 +21,8 @@ A purely functional esoteric programming language
 - `,`: Input function
 - `.`: Output function
 - `#`: Line comment
+
+## Links
+
+- https://github.com/simon-i1-h/normalcalc
+- https://esolangs.org/wiki/Normalcalc
