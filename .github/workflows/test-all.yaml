@@ -1,0 +1,11 @@
+name: 全てのテストを実行
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: テストの実行
+        run: ./test.sh
