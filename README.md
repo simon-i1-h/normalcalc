@@ -16,8 +16,8 @@ A purely functional esoteric programming language
 - `` ` ``: Function application
 - `*`: Substitution function (the S combinator)
 - `/`: Constant function (the K combinator)
-- `|`: The bind function (also called flatMap)
-- `_`: The return function (also called pure and unit)
+- `|`: Bind function (also called flatMap)
+- `_`: Return function (also called pure and unit)
 - `,`: Input function
 - `.`: Output function
 - `#`: Line comment
