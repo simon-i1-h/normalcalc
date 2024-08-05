@@ -22,6 +22,11 @@ A purely functional esoteric programming language
 - `.`: Output function
 - `#`: Line comment
 
+## License
+
+- `nci.hs`, `test.sh`: MIT-0
+- `t/*`: CC0-1.0
+
 ## Links
 
 - https://github.com/simon-i1-h/normalcalc
